@@ -1,0 +1,24 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "jquery",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ileaugustin/jquery-getting-started.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "ileaugustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ileaugustin/jquery-getting-started/issues"
+  },
+  "homepage": "https://github.com/ileaugustin/jquery-getting-started#readme"
+}
